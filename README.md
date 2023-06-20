@@ -1,3 +1,3 @@
 # socket.io
 
-A simple demonstartion of message emit & broadcast betweem client & server using the socket.io library.
+A simple app capable of emitting messages & broadcasts between the client & server using the socket.io library supporting full-duplex transmission between the two.
